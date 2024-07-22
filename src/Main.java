@@ -48,6 +48,6 @@ public class Main {
         System.out.println("My shoe size is: " + shoeSize);
         System.out.println("My birth month is: " + birthMonth);
         System.out.println("My full name is: " + fullName);
-        //e
+        //
     }
 }
